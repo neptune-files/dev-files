@@ -1,2 +1,4 @@
 opencv-2.4.13.2.zip filter=lfs diff=lfs merge=lfs -text
 ros-indigo-apollo-2.1.2-x86_64.tar.gz filter=lfs diff=lfs merge=lfs -text
+bazel-0.5.3-installer-linux-x86_64.sh filter=lfs diff=lfs merge=lfs -text
+Miniconda2-latest-Linux-x86_64.sh filter=lfs diff=lfs merge=lfs -text
